@@ -110,14 +110,14 @@ const Hero = () => {
             </motion.div>
 
 
-            <motion.img 
+{/*             <motion.img 
                 src={profilepic}
                 className="w-[300px] md:w-[450px]"
                 initial={{ opacity: 0, scale: 0.8 }}
                 whileInView={{ opacity: 1, scale: 1 }}
                 viewport={{ once: true }}
                 transition={{ duration: 1 }}
-            />
+            /> */}
         </div>
 
         <motion.div
