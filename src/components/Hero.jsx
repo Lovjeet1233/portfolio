@@ -1,5 +1,5 @@
 import React from "react";
-import profilepic from "../assets/profpic.png";
+import profilepic from "../assets/profpic.jpeg";
 import { TypeAnimation } from "react-type-animation";
 import ShinyEffect from "./ShinyEffect";
 import {
